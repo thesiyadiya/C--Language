@@ -1,0 +1,14 @@
+/*
+  DEF:
+  DEV:
+  DATE:
+*/
+  #include<conio.h>
+  #include<stdio.h>
+  void main()
+{
+ clrscr();
+ printf("\n Hello World\n");
+ getch();
+}
+
