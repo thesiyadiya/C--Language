@@ -1,0 +1,23 @@
+/*
+  DEF:
+  DEV:
+  DATE:
+*/
+ #include<stdio.h>
+ #include<conio.h>
+ int a;
+ void main()
+{
+ int b,c;
+ clrscr();
+ a=1;
+ b=20;
+ c=a+b;
+ printf("\nc=%d",c);
+ getch();
+}
+
+
+
+
+
