@@ -1,0 +1,14 @@
+#include<conio.h>
+#include<stdio.h>
+void main()
+{
+	int a,b;
+	clrscr();
+	printf("\n Enter value=");
+	scanf("%d",&a);
+	printf("\n Enter valiue=");
+	scanf("%d",&b);
+	a>b;printf("\n A is>");
+	a=b;printf("\n A=B");printf("\n B is>");
+	getch();
+}
