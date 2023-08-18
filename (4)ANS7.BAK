@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<stdio.h>
+void main()
+{
+	 int a,ans=0;
+	 clrscr();
+	 a=1;
+	 printf("\n ANS=%d", a++ + a++ + ++a);
+	 a=1;
+	 ans=(a++ + a++ + ++a);
+	 printf("\n%d",ans);
+	 getch();
+}
