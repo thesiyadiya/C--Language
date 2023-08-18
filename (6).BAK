@@ -1,0 +1,12 @@
+#include<conio.h>
+#include<stdio.h>
+void main()
+{
+	char c;
+	clrscr();
+	printf("\n Enter Any char:");
+	scanf("%c",&c);
+	printf("\n char is;%c",c);
+	getch();
+}
+
